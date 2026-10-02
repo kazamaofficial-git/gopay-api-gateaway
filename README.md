@@ -440,17 +440,17 @@ gopay-gateway/
 Ada pertanyaan, error, atau mau diskusi? Hubungi langsung:
 
 <p align="center">
-  <a href="https://t.me/ahmadzakiyo">
+  <a href="https://t.me/DhilzzKZ">
     <img src="https://img.shields.io/badge/Telegram-Chat%20Owner-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Chat Owner" />
   </a>
   &nbsp;
-  <a href="https://t.me/nuxysproject">
+  <a href="https://t.me/testikzcloud">
     <img src="https://img.shields.io/badge/Telegram-Channel%20Updates-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Channel" />
   </a>
 </p>
 
-- 👤 **Owner / Developer:** [@ahmadzakiyo](https://t.me/ahmadzakiyo)
-- 📢 **Channel (Update & Project):** [@nuxysproject](https://t.me/nuxysproject)
+- 👤 **Owner / Developer:** [@DhilzzKZ](https://t.me/DhilzzKZ)
+- 📢 **Channel (Update & Project):** [@testikzcloud](https://t.me/testikzcloud)
 
 ---
 
@@ -459,7 +459,7 @@ Ada pertanyaan, error, atau mau diskusi? Hubungi langsung:
 Kalau project ini bermanfaat buat kamu, traktir saya kopi ya! ☕
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadzakiyox/DB/main/6269360055874426106_121.jpg" alt="QRIS Donasi ahmadzakiyo" width="250" />
+  <img src="https://www.kazamasite.biz.id/images/qris.jpg" alt="QRIS Donasi Kazama" width="250" />
   <br/>
   <sub>Nominal bebas — terima kasih banyak! 🙏</sub>
 </p>
