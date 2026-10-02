@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ahmadzakiyo">
+  <a href="https://t.me/DhilzzKZ">
     <img src="https://img.shields.io/badge/Telegram-Chat%20Owner-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Chat Owner" />
   </a>
   &nbsp;
-  <a href="https://t.me/nuxysproject">
+  <a href="https://t.me/testikzcloud">
     <img src="https://img.shields.io/badge/Telegram-Channel%20Updates-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Channel" />
   </a>
 </p>
@@ -24,8 +24,8 @@ API Gateway self-hosted berbasis Node.js untuk otomatisasi cek transaksi dan cet
 
 > [!NOTE]
 > 💬 **HUBUNGI OWNER & BERGABUNG CHANNEL:**
-> - 👤 **Developer / Owner:** [@ahmadzakiyo](https://t.me/ahmadzakiyo)
-> - 📢 **Channel Update & Project:** [@nuxysproject](https://t.me/nuxysproject)
+> - 👤 **Developer / Owner:** [@DhilzzKZ](https://t.me/DhilzzKZ)
+> - 📢 **Channel Update & Project:** [@testikzcloud](https://t.me/testikzcloud)
 
 > [!TIP]
 > 📣 **PENGUMUMAN & UPDATE TERBARU: Sistem Login OTP Terminal & Auto-Refresh Token**
