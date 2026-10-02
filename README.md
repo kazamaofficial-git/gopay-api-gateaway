@@ -68,7 +68,7 @@ API Gateway self-hosted berbasis Node.js untuk otomatisasi cek transaksi dan cet
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/ahmadzakiyox/gopay-api-gateaway.git
+git clone https://github.com/kazamaofficial-git/gopay-api-gateaway.git
 cd gopay-api-gateaway
 npm install
 ```
@@ -114,7 +114,7 @@ sudo apt install -y nodejs
 ### 📍 Langkah 2: Setup Project & Login OTP Pertama Kali
 ```bash
 # Clone repository
-git clone https://github.com/ahmadzakiyox/gopay-api-gateaway.git
+git clone https://github.com/kazamaofficial-git/gopay-api-gateaway.git
 cd gopay-api-gateaway
 
 # Install dependencies
